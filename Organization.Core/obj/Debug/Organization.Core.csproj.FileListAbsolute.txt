@@ -1,0 +1,7 @@
+C:\Users\Dmitryi\Documents\Visual Studio 2013\Projects\Organization\Organization.Core\bin\Debug\Organization.Core.dll
+C:\Users\Dmitryi\Documents\Visual Studio 2013\Projects\Organization\Organization.Core\bin\Debug\Organization.Core.pdb
+C:\Users\Dmitryi\Documents\Visual Studio 2013\Projects\Organization\Organization.Core\bin\Debug\Organization.Contract.dll
+C:\Users\Dmitryi\Documents\Visual Studio 2013\Projects\Organization\Organization.Core\bin\Debug\Organization.Contract.pdb
+C:\Users\Dmitryi\Documents\Visual Studio 2013\Projects\Organization\Organization.Core\obj\Debug\Organization.Core.csprojResolveAssemblyReference.cache
+C:\Users\Dmitryi\Documents\Visual Studio 2013\Projects\Organization\Organization.Core\obj\Debug\Organization.Core.dll
+C:\Users\Dmitryi\Documents\Visual Studio 2013\Projects\Organization\Organization.Core\obj\Debug\Organization.Core.pdb

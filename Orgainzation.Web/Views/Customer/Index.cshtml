@@ -1,0 +1,23 @@
+﻿@using GridMvc.Html
+@model IEnumerable<Orgainzation.Web.Models.CustomerViewModel>
+
+@{
+    ViewBag.Title = "Customer";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h4>@ViewBag.Title</h4>
+
+@Html.Grid(Model).Columns(col =>
+    {
+        col.Add(t => t.ContactName);
+        col.Add(t => t.Address);
+        col.Add(t => t.Phone);
+        col.Add().Encoded(false).Sanitized(false).SetWidth(20)
+            .RenderValueAs(t => @Html.ActionLink("Edit", "Edit", new { id = t.Id }));
+        col.Add().Encoded(false).Sanitized(false).SetWidth(20)
+           .RenderValueAs(t => @Html.ActionLink("Delete", "Delete", new { id = t.Id }));
+    }).WithPaging(10).Sortable().Selectable(false)
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>

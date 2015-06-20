@@ -1,0 +1,9 @@
+c:\users\dmitryi\documents\visual studio 2013\Projects\Organization\Organization.App\bin\Debug\Organization.App.exe.config
+C:\Users\Dmitryi\documents\visual studio 2013\Projects\Organization\Organization.App\bin\Debug\Organization.App.exe
+C:\Users\Dmitryi\documents\visual studio 2013\Projects\Organization\Organization.App\bin\Debug\Organization.App.pdb
+C:\Users\Dmitryi\documents\visual studio 2013\Projects\Organization\Organization.App\obj\Debug\Organization.App.csprojResolveAssemblyReference.cache
+C:\Users\Dmitryi\documents\visual studio 2013\Projects\Organization\Organization.App\obj\Debug\Organization.App.OrganizationForm.resources
+C:\Users\Dmitryi\documents\visual studio 2013\Projects\Organization\Organization.App\obj\Debug\Organization.App.Properties.Resources.resources
+C:\Users\Dmitryi\documents\visual studio 2013\Projects\Organization\Organization.App\obj\Debug\Organization.App.csproj.GenerateResource.Cache
+C:\Users\Dmitryi\documents\visual studio 2013\Projects\Organization\Organization.App\obj\Debug\Organization.App.exe
+C:\Users\Dmitryi\documents\visual studio 2013\Projects\Organization\Organization.App\obj\Debug\Organization.App.pdb

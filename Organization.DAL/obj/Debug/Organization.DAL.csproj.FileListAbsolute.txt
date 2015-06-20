@@ -1,0 +1,9 @@
+C:\Users\Dmitryi\Documents\Visual Studio 2013\Projects\Organization\Organization.DAL\bin\Debug\Organization.DAL.dll
+C:\Users\Dmitryi\Documents\Visual Studio 2013\Projects\Organization\Organization.DAL\bin\Debug\Organization.DAL.pdb
+C:\Users\Dmitryi\Documents\Visual Studio 2013\Projects\Organization\Organization.DAL\bin\Debug\Organization.Contract.dll
+C:\Users\Dmitryi\Documents\Visual Studio 2013\Projects\Organization\Organization.DAL\bin\Debug\Organization.Core.dll
+C:\Users\Dmitryi\Documents\Visual Studio 2013\Projects\Organization\Organization.DAL\bin\Debug\Organization.Contract.pdb
+C:\Users\Dmitryi\Documents\Visual Studio 2013\Projects\Organization\Organization.DAL\bin\Debug\Organization.Core.pdb
+C:\Users\Dmitryi\Documents\Visual Studio 2013\Projects\Organization\Organization.DAL\obj\Debug\Organization.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Dmitryi\Documents\Visual Studio 2013\Projects\Organization\Organization.DAL\obj\Debug\Organization.DAL.dll
+C:\Users\Dmitryi\Documents\Visual Studio 2013\Projects\Organization\Organization.DAL\obj\Debug\Organization.DAL.pdb
